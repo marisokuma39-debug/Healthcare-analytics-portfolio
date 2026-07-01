@@ -72,7 +72,7 @@ Claim volume peaks in **July (36 claims)** and drops sharply in **April (15 clai
 
 ## Dashboard Preview
 
-> *Screenshot of dashboard to be inserted here after export*
+![Dashboard](dashboard_screenshot.png)
 
 Charts built:
 - Bar Chart — Claim Approval Rate by HMO Provider
@@ -96,7 +96,7 @@ Charts built:
 
 ##  Data Story
 
-*"This project analysed a 300-claim Nigerian HMO dataset containing inconsistent status values, duplicate records, and missing claim amounts. After cleaning and standardising the data, the overall claim approval rate was found to be 69% — meaning 31% of claims submitted by the hospital remain unresolved, rejected, or only partially reimbursed, representing a significant financial risk. Leadway HMO recorded the highest rejection rate at 24%, with 'Service Not Covered' as the dominant rejection reason — suggesting a narrow coverage policy or an automated review system that blocks claims without thorough case-by-case assessment. Additionally, 37 claims (12.3%) remain Pending, exposing ₦15.7 million in unresolved reimbursements. Claim volume peaks in July and drops sharply in April, reflecting seasonal healthcare demand patterns consistent with Nigerian climate and economic cycles. We recommend the hospital conduct an urgent review of its Leadway partnership, implement pre-authorisation checks before rendering services to Leadway-insured patients, and establish a dedicated claims follow-up process for Pending claims older than 14 days."*
+*"This project analysed a 300-claim Nigerian HMO dataset containing inconsistent status values, duplicate records, and missing claim amounts. After cleaning and standardising the data, the overall claim approval rate was found to be 69%, meaning 31% of claims submitted by the hospital remain unresolved, rejected, or only partially reimbursed, representing a significant financial risk. Leadway HMO recorded the highest rejection rate at 24%, with 'Service Not Covered' as the dominant rejection reason, suggesting a narrow coverage policy or an automated review system that blocks claims without thorough case-by-case assessment. Additionally, 37 claims (12.3%) remain Pending, exposing ₦15.7 million in unresolved reimbursements. Claim volume peaks in July and drops sharply in April, reflecting seasonal healthcare demand patterns consistent with Nigerian climate and economic cycles. We recommend the hospital conduct an urgent review of its Leadway partnership, implement pre-authorisation checks before rendering services to Leadway-insured patients, and establish a dedicated claims follow-up process for Pending claims older than 14 days."*
 
 ---
 
