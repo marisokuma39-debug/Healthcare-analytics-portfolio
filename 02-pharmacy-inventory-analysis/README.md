@@ -98,7 +98,7 @@ Antibiotics account for **35 out of 150 drug records** and carry the highest tot
 
 ##  Data Story
 
-*"Analysis of 150 drug records across 5 hospital branches reveals a pharmacy in serious inventory crisis. The most critical risk is expiry, 116 out of 150 drug records (77%) have already passed their expiry date, meaning the vast majority of current stock cannot be safely dispensed to patients. A further 18 drugs are expiring within the next 90 days, leaving only 16 drug records with safe stock levels. Compounding this, 19 drugs are below their reorder level, including essential antibiotics and analgesics, with 6 additional drugs showing no recorded stock quantity at all. Lekki Branch carries the highest inventory value at ₦184 million, but given the scale of expired stock across all branches, a significant portion of the total ₦809 million inventory value may represent worthless expired drugs rather than usable assets. We recommend an immediate physical stock audit across all branches, quarantine of all expired drugs per NAFDAC guidelines, and urgent procurement of the 19 drugs below reorder level, prioritising antibiotics, which dominate the hospital's drug portfolio at 35 records across all branches."*
+*Analysis of 150 drug records across 5 hospital branches reveals a pharmacy in serious inventory crisis. The most critical risk is expiry, 116 out of 150 drug records (77%) have already passed their expiry date, meaning the vast majority of current stock cannot be safely dispensed to patients. A further 18 drugs are expiring within the next 90 days, leaving only 16 drug records with safe stock levels. Compounding this, 19 drugs are below their reorder level, including essential antibiotics and analgesics, with 6 additional drugs showing no recorded stock quantity at all. Lekki Branch carries the highest inventory value at ₦184 million, but given the scale of expired stock across all branches, a significant portion of the total ₦809 million inventory value may represent worthless expired drugs rather than usable assets. We recommend an immediate physical stock audit across all branches, quarantine of all expired drugs per NAFDAC guidelines, and urgent procurement of the 19 drugs below reorder level, prioritising antibiotics, which dominate the hospital's drug portfolio at 35 records across all branches.*
 
 ---
 
@@ -116,7 +116,7 @@ Antibiotics account for **35 out of 150 drug records** and carry the highest tot
 
 **Ogoma Okuma** | Biochemistry Graduate → Healthcare Data Analyst  
 Building a portfolio in healthcare analytics using Excel, SQL, and Power BI.  
-Email [marisokuma39@gmail.com] | Linkedin [nkedin.com/in/ogoma-okuma-a09ba4344/] 
+Email [marisokuma39@gmail.com] | Linkedin [www.linkedin.com/in/ogoma-okuma-a09ba4344] 
 
 ---
 
