@@ -114,7 +114,7 @@ Antibiotics account for **35 out of 150 drug records** and carry the highest tot
 
 ##  About
 
-**Ogoma Okuma** | Biochemistry Graduate → Healthcare Data Analyst  
+**Ogoma Maris Okuma** | Biochemistry Graduate → Healthcare Data Analyst  
 Building a portfolio in healthcare analytics using Excel, SQL, and Power BI.  
 Email [marisokuma39@gmail.com] | Linkedin [www.linkedin.com/in/ogoma-okuma-a09ba4344] 
 
