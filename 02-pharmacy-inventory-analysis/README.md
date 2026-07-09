@@ -82,7 +82,7 @@ Antibiotics account for **35 out of 150 drug records** and carry the highest tot
 
 ##  Dashboard Preview
 
-> *Screenshot of dashboard to be inserted here after export*
+> ![Dashboard](dashboard_screenshot.png)
 
 ---
 
